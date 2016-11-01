@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VaigAMorir</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="editFecha">Introdueix la data</string>
+    <string name="editNombre">Introdueix el nom</string>
+    <string name="textFecha">Data de naixement</string>
+    <string name="textNombre">Nom</string>
+    <string name="titulo">Omple el formulari</string>
+    <string name="textComplexion">Complexió</string>
+    <string-array name="sexo">
+        <item>Home</item>
+        <item>Dona</item>
+    </string-array>
+    <string name="cb1">Gras</string>
+    <string name="cb2">Prim</string>
+    <string name="textSexo">Sexe</string>
+    <string name="cb3">Colacao</string>
+    <string name="textVicios">Vicis</string>
+    <string name="textViewTitulo">Senyor</string>
+    <string name="textViewFecha">Nascut el</string>
+    <string name="textViewMuerte">Ens va deixar amb</string>
+    <string name="edad">anys</string>
+    <string-array name="textos">
+        <item>Ets un home massa viciós com per dedicar-te una mort.</item>
+         <item>La falta de vicis serà la teva perdició. Moriràs atragantat per una barreta energètica mentre fas footing.
+              No es bo cuidar-se tant.</item>
+
+        <item>Ets una dona massa viciosa com per dedicar-te una mort.</item>
+        <item>La falta de vicis serà la teva perdició. Moriràs infartada mentre practiques ioga.
+                Què coses eh? No es bo cuidar-se tant</item>
+
+    </string-array>
+    <string-array name="aleHombres">
+           <item>Moriràs por consumir un iogurt del Mercadona en mal estat. Hi ha que mirar les dates de caducitat nois.
+        </item>
+         <item>
+              Moriras al ser mossegat per una vaca furiosa. Aixo passa per no deixar que siguin els professionals quins les munyin.
+        </item>
+    </string-array>
+    <string-array name="aleMujeres">
+           <item>
+              Serás assassinada per la teva amiga mentre esteu en el bany dun bar. A vegades aquestes coses surten malament.
+        </item>
+         <item>
+              Moriràs feliçment de vella en el llit amb els teus éssers estimats al costat. No tot és dolent.
+        </item>
+    </string-array>
+</resources>

@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">VoyAMorir</string>
+    <string name="titulo">Rellena el formulario</string>
+    <string name="textFecha">Fecha de nacimiento</string>
+    <string name="textNombre">Nombre</string>
+    <string name="editFecha">Introduce la fecha</string>
+    <string name="editNombre">Introduce el nombre</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="textVicios">Vicios</string>
+    <string name="cb1">Azúcar</string>
+    <string name="cb2">Droga</string>
+    <string name="cb3">Colacao</string>
+    <string name="textSexo">Sexo</string>
+    <string name="textViewTitulo">Don</string>
+    <string name="textViewFecha">Nacido el</string>
+    <string name="textViewMuerte">Nos dejó con</string>
+    <string name="edad">años</string>
+    <string-array name="sexo">
+        <item>Hombre</item>
+        <item>Mujer</item>
+    </string-array>
+    <string-array name="textos">
+        <item>Eres un hombre demasiado vicioso cómo para dedicarte una muerte.</item>
+        <item>La falta de vicios será tu perdición. Morirás atragantado por una barrita energética mientras haces footing.
+              No es bueno cuidarse tanto.</item>
+
+        <item>Eres una mujer demasiado viciosa cómo para dedicarte una muerte.</item>
+        <item>La falta de vicios será tu perdición. Morirás infartada mientras practicas yoga.
+                ¿Qué cosas eh? No es bueno cuidarse tanto</item>
+    </string-array>
+    <string-array name="aleHombres">
+          <item>Morirás por consumir un yogur del Mercadona en mal estado. Hay que mirar las fechas de caducidad chavales.
+        </item>
+        <item>
+              Morirás al ser mordido por una vaca furiosa. Eso pasa por no dejar que sean los profesionales quienes las ordeñen.
+        </item>
+    </string-array>
+    <string-array name="aleMujeres">
+          <item>
+              Serás asesinada por tu amiga mientras estais en el baño de un bar. A veces esas cosas salen mal.
+        </item>
+        <item>
+              Morirás felizmente de vieja en la cama con tus seres queridos al lado. No todo iba a ser malo.
+        </item>
+    </string-array>
+
+</resources>
